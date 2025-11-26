@@ -2,7 +2,7 @@ Github_Link: https://github.com/whoisdilshad/AdvancedRecipeAPI.git
 
 Render_Link: https://advancedrecipeapi.onrender.com
 
-Netlify Link : 
+Netlify Link : glittering-kangaroo-e26fb4.netlify.app
 
 ## Run Instruction:
 
